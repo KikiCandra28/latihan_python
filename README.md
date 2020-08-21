@@ -8,3 +8,6 @@ foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 ini adalah untuk import data
+
+## Contoh kedua
+ini adalah subab baru dari okik
